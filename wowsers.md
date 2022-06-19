@@ -13,5 +13,3 @@ Okay I lied, let's do another edit
 This edit was made on github
 And this one was made in xcode
 
-blah blah blah
-
